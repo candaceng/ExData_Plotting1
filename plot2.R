@@ -1,4 +1,4 @@
-# This Code generates a lobal Active Power plot vs. Day over the first two days of February 2007
+# This Code generates a Global Active Power vs. Day plot over the first two days of February 2007
 
 # Read in the data set
 data <- read.table("./household_power_consumption.txt", header=TRUE, stringsAsFactors=FALSE, sep=";")
